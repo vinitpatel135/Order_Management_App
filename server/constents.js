@@ -2,7 +2,7 @@ module.exports = {
   // baseURL : "http://localhost:5000",
   // baseURL : "http://192.168.29.33:5000",
   baseURL: "https://order-management-app-oxvi.onrender.com",
-  DB_URL: "mongodb+srv://kanjiyaparas2002:0PsNjFPYg0dIBKEM@inventory-order-managem.75vwq.mongodb.net/",
+  DB_URL: "mongodb+srv://patelvinit135:15tnAOUDcwgsBJue@cluster0.gfbqv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   httpSuccess: "Success",
   httpErrors: {
     500: (() => {
