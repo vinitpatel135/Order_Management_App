@@ -5,8 +5,7 @@ class ApiHelper {
     constructor() {
         // this.baseUrl = "http://localhost:5000"
         // this.baseUrl  = "http://192.168.29.33:5000"
-        // this.baseUrl  = "http://api.mevadakalgitea.scriptscholer.in"
-        this.baseUrl  = "https://api.mevadakalgitea.scriptscholer.in"
+        this.baseUrl  = "https://order-management-app-oxvi.onrender.com"
 
 
         axios.interceptors.request.use(function (config) {
